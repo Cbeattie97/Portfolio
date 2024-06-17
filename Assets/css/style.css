@@ -119,6 +119,7 @@ h4 {
     font-weight: bold;
 }
 
+
 .Blurb {
     text-align: left;
     background-color: var(--YlnMn_Blue);
@@ -131,6 +132,11 @@ h4 {
     width: 50%;
 }
 
+a {
+    color: var(--YlnMn_Blue);
+    text-decoration: none;
+
+}
 
 /* Project card properties */
 .Main-Project-card {
